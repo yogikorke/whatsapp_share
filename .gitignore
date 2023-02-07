@@ -6,3 +6,6 @@
 
 build/
 .idea/
+.fvm/
+.vscode/settings.json
+example/.flutter-plugins-dependencies
